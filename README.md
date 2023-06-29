@@ -12,7 +12,7 @@ Hosted on Netlify
 ## Clone Project 
 
 ```
-git clone https://github.com/Ni2-1911/SpringSoon.git
+git clone https://github.com/Riteshiitism/Weather-App.git
 ```
 ## Preview 
 ![Spring Soon](https://github.com/Ni2-1911/SpringSoon/blob/main/Snowie.jpg)
